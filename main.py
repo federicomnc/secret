@@ -16,5 +16,6 @@ if __name__ == '__main__':
     print('How are you?')
     print(password)
     print(nome)
+    print('ciao')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
